@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (3.13.1)
+  - PinterestLayout (1.0.3)
+
+DEPENDENCIES:
+  - Kingfisher (~> 3.0)
+  - PinterestLayout
+
+SPEC CHECKSUMS:
+  Kingfisher: ed9707a409cc47fddafbcd12a43a9757e3600af5
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+
+PODFILE CHECKSUM: d267e9034b6b4ed828fd356888f78993097dee46
+
+COCOAPODS: 1.4.0
